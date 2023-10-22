@@ -8,9 +8,9 @@ pluginManagement {
     }
 }
 
-rootProject.name = "DivineMC"
+rootProject.name = "Nanaica"
 
-for (name in listOf("DivineMC-API", "DivineMC-Server")) {
+for (name in listOf("Nanaica-API", "Nanaica-Server")) {
     val projName = name.lowercase(Locale.ENGLISH)
     include(projName)
     findProject(":$projName")!!.projectDir = file(name)

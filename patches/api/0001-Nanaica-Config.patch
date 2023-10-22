@@ -1,7 +1,7 @@
 From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
-From: NONPLAYT <76615486+NONPLAYT@users.noreply.github.com>
+From: Pancakse <pancakseyt@gmail.com>
 Date: Mon, 27 Mar 2023 17:50:05 +0300
-Subject: [PATCH] Divine Configuration
+Subject: [PATCH] Nanaica Configuration
 
 
 diff --git a/src/main/java/org/bukkit/Server.java b/src/main/java/org/bukkit/Server.java
@@ -12,12 +12,12 @@ index aaef58468a3c31f35e5067ed4263e9dd3fbddddd..36979d745b7a19b01116a1b4a3e621a8
          }
          // Purpur end
  
-+        // DivineMC start
++        // Nanaica start
 +        @NotNull
-+        public org.bukkit.configuration.file.YamlConfiguration getDivineConfig() {
++        public org.bukkit.configuration.file.YamlConfiguration getNanaicaConfig() {
 +            throw new UnsupportedOperationException("Not supported yet");
 +        }
-+        // DivineMC end
++        // Nanaica end
 +
          /**
           * Sends the component to the player
