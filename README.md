@@ -1,7 +1,7 @@
 <img src="https://api.bxteam.gq/v3/resources/divinemc-logo.png" height="240" alt="DivineMC Face" align="right">
 
 <div align="center">
-  <h1>DivineMC</h1>
+  <h1>Nanaica</h1>
   <h3>Fork of Purpur compatible with Spigot plugins, offering the best performance for your server.</h3>
   <br>
   
